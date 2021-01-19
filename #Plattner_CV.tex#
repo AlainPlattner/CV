@@ -38,7 +38,7 @@
 
 \newcommand{\ug}{$^*$}
 \newcommand{\ugshift}{\hspace*{-0.835cm}}
-\newcommand{\gr}{$^\dagger$}
+\newcommand{\gr}{$^\star$}
 \newcommand{\grshift}{\hspace*{-0.835cm}}
 
 \vspace*{-0.3in}
